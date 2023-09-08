@@ -10,7 +10,7 @@
 ## Projects:
    - Decision Tree for Regression and classification
    - Cluster Analysis 
-   - Market Basket Analysis
+   - **[Market Basket Analysis](https://github.com/salsabilabasalamah/Market-Basket-Analysis)**
 
 
 
@@ -50,8 +50,8 @@
 
 ---
 ## Portfolio:
-   - [Medium](https://medium.com/@salsabilabasalamah)
-   - [Tablue](https://public.tableau.com/app/profile/salsabila.basalamah)
+   - **[Medium](https://medium.com/@salsabilabasalamah)**
+   - ""[Tablue](https://public.tableau.com/app/profile/salsabila.basalamah)""
 ---
 
 ### Connect with me:
