@@ -50,9 +50,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/salsabilabasalamah#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/salsabilabasalamah#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/Medium-light.svg)](https://medium.com/@salsabilabasalamah#gh-light-mode-only)
-[![website](./img/Medium-dark.svg)](https://medium.com/@salsabilabasalamah#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 
 [![website](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*RB1rxSK_TBmcC5D2PN30JA.png)](https://medium.com/@salsabilabasalamah#gh-light-mode-only)
 
