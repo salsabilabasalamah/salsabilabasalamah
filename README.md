@@ -17,7 +17,7 @@
    - Thesis: Comparison of OLS Estimation and MM Estimation on Response Surface Method
 
 ## Work Experience:
-#### 1. [Freelance] | Data Analyst | Yogyakarta `June 2021-February 2022`
+#### 1. Freelance | Data Analyst | Yogyakarta `June 2021-February 2022`
    - Utilizing the Box-Behnken method for data design.
    - Performing Response Surface Methodology analysis (using Design Expert's tools).
    - Creating detailed research reports and presentations.
