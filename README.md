@@ -22,12 +22,12 @@
    - Performing Response Surface Methodology analysis (using Design Expert's tools).
    - Creating detailed research reports and presentations.
 #### 2. [PT Angkasa Pura I (Persero)](https://ap1.co.id/id) | Student Intern | Semarang `2018-2018`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+   - Conducted forecasting using Neural Network and Seasonal ARIMA methods for passenger and cargo data.
+   - Generated insightful reports from forecasting analyses, leading to data-driven decision-making.
+   - Presented complex analytical results and enhanced data visualization.
 ---
 
-### Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="R" width="40px" src="https://www.r-project.org/Rlogo.png" style="padding-right:0px;" />][webdev]
@@ -42,6 +42,11 @@
 <br />
 
 ---
+## Portfolio:
+   - [Medium](https://medium.com/@salsabilabasalamah)
+   - [Tablue](https://public.tableau.com/app/profile/salsabila.basalamah)
+---
+
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/salsabila-basalamah#gh-light-mode-only)
@@ -50,11 +55,5 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/salsabilabasalamah#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/salsabilabasalamah#gh-dark-mode-only)
 &nbsp;&nbsp;
-
-
-[![website](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*RB1rxSK_TBmcC5D2PN30JA.png)](https://medium.com/@salsabilabasalamah#gh-light-mode-only)
-
-
-
 
 [webdev]: https://github.com/salsabilabasalamah/salsabilabasalamah
