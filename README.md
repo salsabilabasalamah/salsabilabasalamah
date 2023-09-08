@@ -1,15 +1,15 @@
 # Hi there, I'm Salsa!👋
 📄 [Curriculum Vitae](https://www.linkedin.com/in/salsabila-basalamah/) 
 ## About me:
-- 🔍 Currently, I am looking for a Data Science job
+- 🔍 Currently, I am looking for a **Data Science** job
 - 📚 I am currently upgrading myself with deep learning skills, especially PyTorch
 - 💡 Skills I possess: Python, R, SQL, Tableau.
 - 📫 How to reach me: salsabilabasalamah@gmail.com
 ---
 
 ## Projects:
-   - Decision Tree for Regression and classification
-   - Cluster Analysis 
+   - **[Decision Tree for Regression and classification](https://github.com/salsabilabasalamah/Decision-Tree)**
+   - **[Cluster Analysis](https://github.com/salsabilabasalamah/Cluster-Analysis)** 
    - **[Market Basket Analysis](https://github.com/salsabilabasalamah/Market-Basket-Analysis)**
 
 
