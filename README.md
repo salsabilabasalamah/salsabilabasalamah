@@ -1,11 +1,19 @@
-# Hi there, I'm Salsa - aka [salsabila basalamah](https://www.linkedin.com/in/salsabila-basalamah/) 👋
+# Hi there, I'm Salsa!👋
+📄 [Curriculum Vitae](https://www.linkedin.com/in/salsabila-basalamah/) 
 ## About me:
 - 🔍 Currently, I am looking for a Data Science job
 - 📚 I am currently upgrading myself with deep learning skills, especially PyTorch
 - 💡 Skills I possess: Python, R, SQL, Tableau.
-- 💬 Ask me about anything
 - 📫 How to reach me: salsabilabasalamah@gmail.com
 ---
+
+## Projects:
+   - Decision Tree for Regression and classification
+   - Cluster Analysis 
+   - Market Basket Analysis
+
+
+
 ## Work Experience:
 #### 1. Freelance | Data Analyst | Yogyakarta `June 2021-February 2022`
    - Utilizing the Box-Behnken method for data design.
