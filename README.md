@@ -51,7 +51,7 @@
 ---
 ## Portfolio:
    - **[Medium](https://medium.com/@salsabilabasalamah)**
-   - ""[Tablue](https://public.tableau.com/app/profile/salsabila.basalamah)""
+   - **[Tablue](https://public.tableau.com/app/profile/salsabila.basalamah)**
 ---
 
 ### Connect with me:
