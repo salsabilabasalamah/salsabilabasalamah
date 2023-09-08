@@ -5,17 +5,7 @@
 - 💡 Skills I possess: Python, R, SQL, Tableau.
 - 💬 Ask me about anything
 - 📫 How to reach me: salsabilabasalamah@gmail.com
-
-## Education:
-
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Master of Computer Science | Yogyakarta `August 2021-July 2023`
-   - Finalist in the National Data Science Tournament in 2021
-   - Thesis: Robust and Decision Tree Regression Algorithms for Prediction on Datasets with Outliers
- #### 2. [Universitas Islam Indonesia](https://www.uii.ac.id/) | Bachelor of Statistics | Yogyakarta `August 2016-March 2020`
-   - Laboratory Assistant for Categorical Data Analysis Practicum
-   - Active in the Student Choir Organization
-   - Thesis: Comparison of OLS Estimation and MM Estimation on Response Surface Method
-
+---
 ## Work Experience:
 #### 1. Freelance | Data Analyst | Yogyakarta `June 2021-February 2022`
    - Utilizing the Box-Behnken method for data design.
@@ -26,7 +16,16 @@
    - Generated insightful reports from forecasting analyses, leading to data-driven decision-making.
    - Presented complex analytical results and enhanced data visualization.
 ---
+## Education:
 
+#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Master of Computer Science | Yogyakarta `August 2021-July 2023`
+   - Finalist in the National Data Science Tournament in 2021
+   - Thesis: Robust and Decision Tree Regression Algorithms for Prediction on Datasets with Outliers
+ #### 2. [Universitas Islam Indonesia](https://www.uii.ac.id/) | Bachelor of Statistics | Yogyakarta `August 2016-March 2020`
+   - Laboratory Assistant for Categorical Data Analysis Practicum
+   - Active in the Student Choir Organization
+   - Thesis: Comparison of OLS Estimation and MM Estimation on Response Surface Method
+---
 ## Languages and Tools:
 
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
