@@ -11,6 +11,7 @@
    - **[Decision Tree for Regression and Classification](https://github.com/salsabilabasalamah/Decision-Tree)**
    - **[Cluster Analysis](https://github.com/salsabilabasalamah/Cluster-Analysis)** 
    - **[Market Basket Analysis](https://github.com/salsabilabasalamah/Market-Basket-Analysis)**
+   - **[Artificial Neural Network](https://github.com/salsabilabasalamah/Artificial-Neural-Network)** 
 
 
 
