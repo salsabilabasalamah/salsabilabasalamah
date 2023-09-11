@@ -15,7 +15,10 @@
    - **[Deep Neural Networks with PyTorch](https://github.com/salsabilabasalamah/Deep_Neural_Networks_with_PyTorch)** ➡️ Python and PyTorch
    - **[Market Basket Analysis](https://github.com/salsabilabasalamah/Market-Basket-Analysis)** ➡️ R and Python
 ---
-
+## Portfolio:
+   - **[Medium](https://medium.com/@salsabilabasalamah)**
+   - **[Tablue](https://public.tableau.com/app/profile/salsabila.basalamah)**
+---
 
 ## Work Experience:
 #### 1. Freelance | Data Analyst | Yogyakarta `June 2021-February 2022`
@@ -50,13 +53,7 @@
 
 <br />
 <br />
-
 ---
-## Portfolio:
-   - **[Medium](https://medium.com/@salsabilabasalamah)**
-   - **[Tablue](https://public.tableau.com/app/profile/salsabila.basalamah)**
----
-
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/salsabila-basalamah#gh-light-mode-only)
