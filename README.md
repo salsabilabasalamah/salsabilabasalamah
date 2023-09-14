@@ -2,7 +2,7 @@
 📄 [Curriculum Vitae](https://www.linkedin.com/in/salsabila-basalamah/) 
 ## About me:
 - 🔍 Currently, I am looking for a **Data Science** job
-- 📚 I am currently upgrading myself with deep learning skills, especially PyTorch
+- 📚 I am currently upgrading myself with deep learning skills, especially Python
 - 💡 Skills I possess: Python, R, SQL, Tableau.
 - 📫 How to reach me: salsabilabasalamah@gmail.com
 ---
@@ -12,7 +12,7 @@
    - **[Cluster Analysis](https://github.com/salsabilabasalamah/Cluster-Analysis)** ➡️ R and Python
    - **[Dashboards in Tableau](https://public.tableau.com/app/profile/salsabila.basalamah)** ➡️ Tableau
    - **[Decision Tree for Regression and Classification](https://github.com/salsabilabasalamah/Decision-Tree)** ➡️ Python
-   - **[Deep Neural Networks with PyTorch](https://github.com/salsabilabasalamah/Deep_Neural_Networks_with_PyTorch)** ➡️ Python and PyTorch
+   - **[Deep Neural Networks with PyTorch](https://github.com/salsabilabasalamah/Deep_Neural_Networks_with_PyTorch)** ➡️ Python
    - **[Market Basket Analysis](https://github.com/salsabilabasalamah/Market-Basket-Analysis)** ➡️ R and Python
 ---
 ## Portfolio:
