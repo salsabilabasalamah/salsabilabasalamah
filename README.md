@@ -1,7 +1,7 @@
 # Hi there, I'm Salsa!👋
 📄 [Curriculum Vitae](https://www.linkedin.com/in/salsabila-basalamah/) 
 ## About me:
-- 🔍 Currently, I am looking for a **Data Science** job
+- 🔍 I am open to **Data Science** job opportunities
 - 📚 I am currently upgrading myself with deep learning skills, especially Python
 - 💡 Skills I possess: Python, R, SQL, Tableau.
 - 📫 How to reach me: salsabilabasalamah@gmail.com
