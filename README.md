@@ -3,7 +3,7 @@
 ## About me:
 - 🔍 I am open to **Data Science** job opportunities
 - 📚 I am currently upgrading myself with deep learning skills, especially Python
-- 💡 Skills I possess: Python, R, SQL, Tableau.
+- 💡 Skills I possess: Python, R, SQL, Tableau
 - 📫 How to reach me: salsabilabasalamah@gmail.com
 ---
 
@@ -28,17 +28,16 @@
 #### 2. [PT Angkasa Pura I (Persero)](https://ap1.co.id/id) | Student Intern | Semarang `2018-2018`
    - Conducted forecasting using Neural Network and Seasonal ARIMA methods for passenger and cargo data.
    - Generated insightful reports from forecasting analyses, leading to data-driven decision-making.
-   - Presented complex analytical results and enhanced data visualization.
+   - PDelivers comprehensive analysis findings and elevates data visualization.
 ---
 ## Education:
-
 #### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Master of Computer Science | Yogyakarta `August 2021-July 2023`
-   - Finalist in the National Data Science Tournament in 2021
-   - Thesis: Robust and Decision Tree Regression Algorithms for Prediction on Datasets with Outliers
+   - Finalist in the National Data Science Tournament in 2021.
+   - Thesis: Robust and Decision Tree Regression Algorithms for Prediction on Datasets with Outliers.
  #### 2. [Universitas Islam Indonesia](https://www.uii.ac.id/) | Bachelor of Statistics | Yogyakarta `August 2016-March 2020`
-   - Laboratory Assistant for Categorical Data Analysis Practicum
-   - Active in the Student Choir Organization
-   - Thesis: Comparison of OLS Estimation and MM Estimation on Response Surface Method
+   - Laboratory Assistant for Categorical Data Analysis Practicum.
+   - Active in the Student Choir Organization.
+   - Thesis: Comparison of OLS Estimation and MM Estimation on Response Surface Method.
 ---
 ## Languages and Tools:
 
