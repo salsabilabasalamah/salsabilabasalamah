@@ -8,6 +8,7 @@
 ---
 
 ## Projects:
+   - **[Convolutional Neural Networks and Batch-Normalization Synergy](https://github.com/salsabilabasalamah/Deep_Neural_Networks_with_PyTorch/blob/main/Image_Datasets_and_Transforms.ipynb)** ➡️ Python with PyTorch package
    - **[Artificial Neural Network](https://github.com/salsabilabasalamah/Artificial-Neural-Network)** ➡️ R and Python
    - **[Cluster Analysis](https://github.com/salsabilabasalamah/Cluster-Analysis)** ➡️ R and Python
    - **[Dashboards in Tableau](https://public.tableau.com/app/profile/salsabila.basalamah)** ➡️ Tableau
