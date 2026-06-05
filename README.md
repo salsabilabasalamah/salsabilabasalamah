@@ -58,18 +58,14 @@
 [<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="PyTorch" width="100px" src="https://pytorch.org/assets/images/logo-white.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="SPSS" width="30px" src="https://images.sftcdn.net/images/t_app-icon-s/p/03886d52-96d1-11e6-aec3-00163ed833e7/371059589/spss-download.png" style="padding-right:0px;" />][webdev]
+[<img align="left" alt="SPSS" width="30px" src="https://images.sftcdn.net/images/t_app-icon-s/p/03886d52-96d1-11e6-aec3-00163ed833e7/371059589/spss-download.png" style="padding-right:0px;" />][webdev].
 
-<br />
-<br />
 ---
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/salsabila-basalamah#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/salsabila-basalamah#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/salsabilabasalamah#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/salsabilabasalamah#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 
 [webdev]: https://github.com/salsabilabasalamah/salsabilabasalamah
