@@ -1,12 +1,33 @@
 # Hi there, I'm Salsa!👋
 📄 [Curriculum Vitae](https://www.linkedin.com/in/salsabila-basalamah/) 
 ## About me:
-- 🔍 I am open to **Data Science** job opportunities
 - 📚 I am currently upgrading myself with deep learning skills, especially Python
 - 💡 Skills I possess: Python, R, SQL, Tableau
 - 📫 How to reach me: salsabilabasalamah@gmail.com
 ---
 
+## Work Experience:
+#### 1. RETA Consulting Indonesia | Data Analyst | REMOTE | May 2024 - Present
+- Orchestrated end-to-end automated data pipelines, integrating APIs and data cleansing processes with real-time Power BI and R Shiny dashboards.
+- Optimized user experience by designing dynamic dashboards featuring automated scoring formulas and seamless, integrated data download options directly from APIs.
+- ​​Successfully enhanced business prediction accuracy through the development and continuous optimization of machine learning models.
+- Facilitated effective cross-functional collaboration within a fully remote work environment, ensuring the consistent achievement of project milestones and targets.
+#### 2. PT. Kirim Bunga Nusantara | Data Scientist | Nov 2023 - Apr 2024
+- Utilizing Python with Google Colab for data analysis.
+- Employing Google Data Studio to design visualizations of the analysis results.
+- Presenting the analysis findings to support decision-making.
+- Establishing a database using BigQuery.
+- Presenting analysis results as considerations for strategic decision-making.
+#### 1. Freelance | Data Analyst | Yogyakarta `June 2021-February 2022`
+   - Utilizing the Box-Behnken method for data design.
+   - Performing Response Surface Methodology analysis (using Design Expert's tools).
+   - Creating detailed research reports and presentations.
+#### 2. [PT Angkasa Pura I (Persero)](https://ap1.co.id/id) | Student Intern | Semarang `2018-2018`
+   - Conducted forecasting using Neural Network and Seasonal ARIMA methods for passenger and cargo data.
+   - Generated insightful reports from forecasting analyses, leading to data-driven decision-making.
+   - PDelivers comprehensive analysis findings and elevates data visualization.
+
+---
 ## Projects:
    - **[Convolutional Neural Networks and Batch-Normalization Synergy](https://github.com/salsabilabasalamah/Deep_Neural_Networks_with_PyTorch/blob/main/CNN_with_Batch_Normalization.ipynb)** ➡️ Python with PyTorch package
    - **[Artificial Neural Network](https://github.com/salsabilabasalamah/Artificial-Neural-Network)** ➡️ R and Python
@@ -19,17 +40,6 @@
 ## Portfolio:
    - **[Medium](https://medium.com/@salsabilabasalamah)**
    - **[Tablue](https://public.tableau.com/app/profile/salsabila.basalamah)**
----
-
-## Work Experience:
-#### 1. Freelance | Data Analyst | Yogyakarta `June 2021-February 2022`
-   - Utilizing the Box-Behnken method for data design.
-   - Performing Response Surface Methodology analysis (using Design Expert's tools).
-   - Creating detailed research reports and presentations.
-#### 2. [PT Angkasa Pura I (Persero)](https://ap1.co.id/id) | Student Intern | Semarang `2018-2018`
-   - Conducted forecasting using Neural Network and Seasonal ARIMA methods for passenger and cargo data.
-   - Generated insightful reports from forecasting analyses, leading to data-driven decision-making.
-   - PDelivers comprehensive analysis findings and elevates data visualization.
 ---
 ## Education:
 #### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Master of Computer Science | Yogyakarta `August 2021-July 2023`
