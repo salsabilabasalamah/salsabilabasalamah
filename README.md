@@ -51,7 +51,7 @@
 ---
 ## Languages and Tools:
 
-[<img align="left" alt="Python" width="30px" src="https://id.wikibooks.org/wiki/Berkas:Python.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Python" width="30px" src="https://www.svgrepo.com/show/376344/python.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="R" width="40px" src="https://www.r-project.org/Rlogo.png" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
