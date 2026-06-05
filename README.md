@@ -18,11 +18,11 @@
 - Presenting the analysis findings to support decision-making.
 - Establishing a database using BigQuery.
 - Presenting analysis results as considerations for strategic decision-making.
-#### 1. Freelance | Data Analyst | Yogyakarta `June 2021-February 2022`
+#### 3. Freelance | Data Analyst | Yogyakarta `June 2021-February 2022`
    - Utilizing the Box-Behnken method for data design.
    - Performing Response Surface Methodology analysis (using Design Expert's tools).
    - Creating detailed research reports and presentations.
-#### 2. [PT Angkasa Pura I (Persero)](https://ap1.co.id/id) | Student Intern | Semarang `2018-2018`
+#### 4. [PT Angkasa Pura I (Persero)](https://ap1.co.id/id) | Student Intern | Semarang `2018-2018`
    - Conducted forecasting using Neural Network and Seasonal ARIMA methods for passenger and cargo data.
    - Generated insightful reports from forecasting analyses, leading to data-driven decision-making.
    - PDelivers comprehensive analysis findings and elevates data visualization.
